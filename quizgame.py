@@ -1,4 +1,5 @@
 print("*****************")
 print("Welcome to my computer Quiz")
 print("")
-playing=input("Do you want to play")
+playing=input("Do you want to play? ")
+print(playing)
